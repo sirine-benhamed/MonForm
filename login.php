@@ -14,8 +14,7 @@
     password:<input name="pwd" type="password" class="form-control">
     <input type="submit" class="btn btn-primary">
     </form>
-  
-    </div>
+  </div>
     
 </body>
 </html>
