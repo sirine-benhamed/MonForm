@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="container">
-    <form action="processLogin.php" methode="post"> 
+    <form action="processLogin.php" method="post" > 
     username:<input name="username" type="text" class="form-control">
     password:<input name="pwd" type="password" class="form-control">
     <input type="submit" class="btn btn-primary">
